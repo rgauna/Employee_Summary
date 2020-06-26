@@ -21,7 +21,10 @@
   },
   "homepage": "https://github.com/rgauna/Employee_Summary#readme",
   "dependencies": {
+    "fs": "0.0.1-security",
     "inquirer": "^7.2.0",
-    "jest": "^26.1.0"
-  }
+    "jest": "^26.1.0",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {}
 }
